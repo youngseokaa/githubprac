@@ -5,5 +5,7 @@ public class projectprac {
     public static void main(String[] args) {
 
 
+
+
     }
 }
