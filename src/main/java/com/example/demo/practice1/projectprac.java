@@ -8,5 +8,6 @@ public class projectprac {
         System.out.println("영석이다1");
         System.out.println("영석이다2");
         System.out.println("영석이다3");
+        System.out.println("영석이다4");
     }
 }
